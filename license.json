@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "expires": "2027-12-31",
-  "message": "라이선스가 일시 중지되었습니다. 담당자에게 문의해 주세요."
+  "message": ""
 }
