@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "expires": "2027-12-31",
-  "message": ""
+  "message": "라이선스가 만료되었습니다. 담당자에게 연락 바랍니다."
 }
